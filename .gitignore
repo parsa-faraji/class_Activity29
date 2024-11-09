@@ -1,0 +1,67 @@
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Icon must end with two \r
+Icon
+
+# Thumbnails
+._*
+
+# macOS specific files
+.Spotlight-V100
+.Trashes
+.DS_Store
+.DS_Store?
+.VolumeIcon.icns
+.fseventsd
+.com.apple.timemachine.donotpresent
+
+# Xcode project files
+*.xcodeproj/
+*.xcworkspace/
+*.xcuserdata/
+*.xcuserstate
+*.xccheckout
+*.xcscmblueprint
+
+# DerivedData and Build output
+DerivedData/
+build/
+
+# Swift Package Manager
+.build/
+.swiftpm/
+
+# CocoaPods
+Pods/
+
+# Carthage
+Carthage/Build/
+
+# Fastlane specific files
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots
+fastlane/test_output
+
+# Code signing
+*.pem
+*.cer
+*.mobileprovision
+*.p12
+
+# Archived files
+*.xcarchive
+
+# App artifacts
+*.ipa
+*.dSYM.zip
+*.app
+*.framework
+
+# Temporary and backup files
+*.swp
+*.lock
+*.moved-aside
